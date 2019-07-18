@@ -1,0 +1,9 @@
+See the source code for detailed docs.
+
+
+TODO:
+
+1. Makefile like checking timestamps of files, so that unchanged files aren't regenerated?
+2. A sensible way of sharing context between files?
+3. Useful utilities?
+4. Deal with "`"s that have possible legitimate use?
